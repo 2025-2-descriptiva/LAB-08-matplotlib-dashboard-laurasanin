@@ -1,3 +1,10 @@
 pytest
 pandas
 matplotlib
+pyarrow
+matplotlib
+numpy
+jupyterlab 
+black 
+isort
+jupyterlab-code-formatter
